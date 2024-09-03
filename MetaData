@@ -1,0 +1,22 @@
+{
+  "name": "Bear",
+  "symbol": "BR",
+  "description": "This is a token for my awesome project.",
+  "image": "https://cdn.pixabay.com/photo/2024/02/02/15/38/ai-generated-8548454_640.jpg",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "rare"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.pixabay.com/photo/2024/02/02/15/38/ai-generated-8548454_640.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
